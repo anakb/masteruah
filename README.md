@@ -1,11 +1,11 @@
-#Titulo#
+# Titulo #
 
-##Subtitulo 1##
+## Subtitulo 1 ##
 
 - Lista no numerada
 - Lista no numerada
 
-##Subtitulo 2##
+## Subtitulo 2 ##
 
 1. Lista numerada
 2. Lista numerada
