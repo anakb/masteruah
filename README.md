@@ -17,4 +17,4 @@
 |  Cell  |  Cell  |   $10  |
 |  Cell  |  Cell  |   $20  |
 
-[tEXTO DEL ENLACE] (http://www.google.com)
+[Google] (http://www.google.com)
